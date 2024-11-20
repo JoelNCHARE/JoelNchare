@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## 👋Salut, je suis Joel Nchare
+### 🎯Data Analyst | Passionné par l’analyse des données et les tableaux de bord interactifs
+🌟Transformant les données en décisions stratégiques grâce à des analyses et des visualisations claires.  
+🔍Explorateur de données avec une expertise en nettoyage, exploration et storytelling basé sur les données.  
+📊Expérience avec Python, SQL, Tableau, Power BI et Excel avancé.  
+🎓Toujours en quête d'apprentissage et d'amélioration dans le domaine de la data.
 <!--
 **JoelNCHARE/JoelNchare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
