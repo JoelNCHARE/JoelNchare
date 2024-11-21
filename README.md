@@ -1,5 +1,5 @@
 ## 👋Salut, je suis Joel Nchare
-### 🎯Data Analyst | Passionné par l’analyse des données et les tableaux de bord interactifs
+### 🎯Data Analyst Junior | Passionné par l’analyse des données et les tableaux de bord interactifs
 🌟Transformant les données en décisions stratégiques grâce à des analyses et des visualisations claires.  
 🔍Explorateur de données avec une expertise en nettoyage, exploration et storytelling basé sur les données.  
 📊Expérience avec Python, SQL, Tableau, Power BI et Excel avancé.  
